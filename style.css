@@ -1,8 +1,3 @@
-.logo {
-  max-width: 250px;
-  height: auto;
-  margin-bottom: 20px;
-}
 :root {
   --primary: #2C2E5D;
   --accent: #F4B400;
@@ -23,6 +18,15 @@ header {
   color: #fff;
   padding: 60px 20px;
   text-align: center;
+}
+
+.logo {
+  max-width: 250px;
+  height: auto;
+  margin-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header h1 {
@@ -151,6 +155,4 @@ footer {
 @keyframes fadeIn {
   to {
     opacity: 1;
-    transform: translateY(0);
-  }
-}
+    transform: translate[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/Ronnie434/30-days-of-React/tree/22142106cb46f717a1259f84227cc90ed7fe50cc/02_Day_Introduction_to_React%2F02_introduction_to_react.md?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/Salah-eddine/asbl-cens/tree/1da97984769118ec3a7d29f0f44121c4ee7b7663/resources%2Fviews%2Flayout%2Fheader.blade.php?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/cultureshift/boilerplate-static/tree/a14d6cc1c6985cb696b6ee4b955d9446fc7bf3ee/partials%2Fnav.php?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/waladahlmzaqi/portfoliopwpb/tree/1441b97ce3a2e804cd73879d3e0c6007e70fdd18/admin%2Findex.php?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/Cervus18/E-commerce-project/tree/b3e1476c08c64ba37922f67572d65a93c0af8641/E-commerce%20project%203%2FSign-in-up%2FSign-up.php?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")
